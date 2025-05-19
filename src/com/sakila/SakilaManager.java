@@ -9,7 +9,7 @@ public class SakilaManager {
     public static void main(String[] args) {
         try {
             DatabaseConnection.getConnection();
-            System.out.println("Conexión a la base de datos establecida correctamente");
+            System.out.println("Conexión de la base de datos establecida correctamente");
         } catch (Exception e) {
             System.err.println("Error al conectar con la base de datos:");
             e.printStackTrace();
