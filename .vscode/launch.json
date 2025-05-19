@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SakilaManager",
+            "request": "launch",
+            "mainClass": "com.sakila.SakilaManager",
+            "projectName": "sakila-proyecto_3ad9d855"
+        }
+    ]
+}
