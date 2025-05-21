@@ -9,3 +9,10 @@ public interface iDatapost<T> {
     boolean remove(int id);
     List<T> findAll();
 }
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/

@@ -1,6 +1,12 @@
 package com.sakila.models;
 
 import java.sql.Timestamp;
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
 
 public class Actor {
     private int actorId;

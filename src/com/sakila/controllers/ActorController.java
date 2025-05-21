@@ -5,6 +5,13 @@ import com.sakila.models.ActorContext;
 import java.util.List;
 import java.util.Scanner;
 
+/** 
+ * 
+ *   @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class ActorController {
     private final ActorContext context;
     private final Scanner scanner;

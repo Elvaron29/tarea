@@ -5,6 +5,15 @@ import com.sakila.data.DatabaseConnection;
 import java.sql.*;
 import java.util.Scanner;
 
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
+
 public class SakilaManager {
     public static void main(String[] args) {
         try {
