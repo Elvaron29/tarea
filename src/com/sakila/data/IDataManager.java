@@ -10,3 +10,10 @@ public interface IDataManager<T> {
     boolean put(T item);
     boolean delete(int id);
 }
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/

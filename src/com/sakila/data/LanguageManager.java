@@ -5,6 +5,14 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class LanguageManager implements IDataManager<Language> {
     private final Connection connection;
     private final ArrayList<Language> languages;

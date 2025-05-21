@@ -2,6 +2,13 @@ package com.sakila.models;
 
 import java.math.BigDecimal;
 
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class Film extends Entity {
     private int filmId;
     private String title;

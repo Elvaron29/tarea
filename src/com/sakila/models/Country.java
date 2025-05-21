@@ -1,5 +1,12 @@
 package com.sakila.models;
 
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class Country extends Entity {
     private int countryId;
     private String country;

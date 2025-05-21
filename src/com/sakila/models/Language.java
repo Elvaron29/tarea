@@ -1,5 +1,11 @@
 package com.sakila.models;
 
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
 public class Language extends Entity {
     private int languageId;
     private String name;

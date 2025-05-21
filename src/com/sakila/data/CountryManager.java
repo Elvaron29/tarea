@@ -5,6 +5,13 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class CountryManager implements IDataManager<Country> {
     private final Connection connection;
 

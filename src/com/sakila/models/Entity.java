@@ -2,6 +2,12 @@ package com.sakila.models;
 
 import java.sql.Timestamp;
 
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
 public abstract class Entity {
     protected Timestamp lastUpdate;
     protected boolean active;

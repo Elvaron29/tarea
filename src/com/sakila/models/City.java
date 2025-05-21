@@ -1,5 +1,13 @@
 package com.sakila.models;
 
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class City extends Entity {
     private int cityId;
     private String city;

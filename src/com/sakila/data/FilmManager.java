@@ -6,6 +6,14 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/** 
+ * 
+ * @author Nicolas De Jesus lopez Nuñez 
+ * 
+ * 
+*/
+
 public class FilmManager implements IDataManager<Film> {
     private final Connection connection;
     private final LanguageManager languageManager;
